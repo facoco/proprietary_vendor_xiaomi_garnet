@@ -32211,7 +32211,6 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service",
             ],
             shared_libs: [
-                "libstagefright_foundation-v33",
                 "liblog",
                 "libutils",
                 "libhidlbase",
@@ -32244,7 +32243,6 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/hw/vendor.dolby.media.c2@1.0-service",
             ],
             shared_libs: [
-                "libstagefright_foundation-v33",
                 "libbase",
                 "liblog",
                 "libcodec2",
